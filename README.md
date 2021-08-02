@@ -9,7 +9,7 @@ Node.js application for the game [Idle Wasteland](https://store.steampowered.com
 5. (Optional) Replace the icon of the shortcut with the Idle Wastland one.
 6. Start the app. You do not need to open the game before since the app will start Idle Wastland.
 7. A config file will be created next to the executable.
-8. By default the app will make a backup every 5 minutes into ```C:\\Users\\%USERNAME%\\Desktop\\IdleWastelandBackup```.
+8. By default the app will make a backup every 15 minutes into ```C:\\Users\\%USERNAME%\\Desktop\\IdleWastelandBackup```.
 9. To configure this behavior edit the config file. 
 
 # How to "compile" it yourself (requires nodejs to be installed)

@@ -2,6 +2,6 @@
     "gamepath": "steam://rungameid/1658620",
     "savefilepath": "C:\\Users\\%USERNAME%\\AppData\\Local\\Lumberjack2018\\Save.sav",
     "backupfolder": "C:\\Users\\%USERNAME%\\Desktop\\IdleWastelandBackup",
-    "interval": 5,
+    "interval": 15,
     "autorestore": false
 }
